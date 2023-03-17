@@ -15,6 +15,6 @@ Public workshop material for 2023 Q2
  * [spark-price-transparency-0.1.85-py3-none-any.whl]() - Go to your cluster -> Libraries -> Install New -> PyPI and set:
     * **Package**: `spark-price-transparency==0.1.85`
     * **Repository**: `https://github.com/databricks-industry-solutions/hls-price-transparency-workshop/v0.1.85/spark-price-transparency-0.1.85-py3-none-any.whl`
-    
+ * [install_graphviz.sh])(https://github.com/databricks-industry-solutions/hls-price-transparency-workshop/tree/main/init_scripts) - Download and install. Go to your cluster -> Cluster -> Configuration -> Advanced Options -> Init Scripts.  
    
 
