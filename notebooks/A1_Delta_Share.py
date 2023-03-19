@@ -10,12 +10,14 @@
 # COMMAND ----------
 
 from delta_sharing.protocol import DeltaSharingProfile
+from delta_sharing import SharingClient
+
 pt_config = {'share_credentials_version': 1,
              'endpoint': "https://eastus2-c2.azuredatabricks.net/api/2.0/delta-sharing/metastores/3e06dc8f-51a0-4e0c-a9df-16bfb4c0c00a",
              'bearer_token': "5wYEY2UKN2K3f_ZAHk_ZWvXPEKRmPuzr5WWNXIr_VSMt1yPuuranh4KDTJ25g86e",
              'expiration_time': "2023-04-01T00:00:00.000Z"}
 shareProfile = DeltaSharingProfile(**pt_config)
-client = delta_sharing.SharingClient(shareProfile)
+client = SharingClient(shareProfile)
 display(client.list_all_tables())
 
 # COMMAND ----------
