@@ -1,5 +1,4 @@
 <img src="./img/databricks.png" alt="databricks_icon" height="30">
-style="float:left;width:42px;height:42px;"
 <img src="./img/icon-orange-healthcare_0.svg" alt="hc_icon" height="70" float="left">
 Building a Lakehouse for Healthcare: <br/>Unlocking Price Transparency
 
