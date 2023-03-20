@@ -1,9 +1,16 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
-<table>
+<table style="background-color:#EEEDE9;">
+    <tr colspan="2">
+        <td><img src="./img/databricks.png" alt="databricks_icon" height="30"></td>
     <tr>
-        <td><img src="./img/icon-orange-healthcare_0.svg" alt="hc_icon"></td>
+        <td><img src="./img/icon-orange-healthcare_0.svg" alt="hc_icon" height="70"></td>
         <td align="center">Building a Lakehouse for Healthcare: <br/>Unlocking Price Transparency</td>
-        <td><img src="./img/health_care_accelerator.jpeg" alt="hls_acc_icon"></td>
+        <td><img src="./img/health_care_accelerator.jpeg" alt="hls_acc_icon" height="70"></td>
     </tr>
 </table>
 
