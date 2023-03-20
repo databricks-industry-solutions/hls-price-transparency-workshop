@@ -1,5 +1,18 @@
-# hls-price-transparency-workshop
-Public workshop material for 2023 Q2
+# Spark Price Transparency Workshop
+
+<img src="./img/icon-orange-healthcare_0.svg" alt="hc_icon">
+
+This even repo contains material shared during the 21 MAR 2023. 
+
+
+
+https://www.databricks.com/solutions/accelerators/price-transparency-data
+
+[![Spark](https://img.shields.io/badge/Spark-3.2.1-orange)](https://docs.databricks.com/release-notes/runtime/releases.html)
+[![DatabricksRuntime](https://img.shields.io/badge/Databricks%20Runtime-10.4%20LTS-orange)](https://docs.databricks.com/release-notes/runtime/releases.html)
+[![PyPi](https://img.shields.io/pypi/v/spark-price-transparency)](https://pypi.org/project/spark-price-transparency)
+[![PyPi](https://img.shields.io/pypi/wheel/spark-price-transparency)](https://pypi.org/project/spark-price-transparency)
+
 
 ---
 
