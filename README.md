@@ -6,7 +6,7 @@
     </tr>
 </table>
 
-Spark Price Transparency is python package which is part of the Databricks [Solution Accelerator](https://www.databricks.com/solutions/accelerators/price-transparency-data) for Price Transparency. The package provides guided data architecture for the import, ingest, and transform to analytic form for all Price Transparency Schemas. This repo contains demonstration material covered in the Building a Lakehouse for Healthcare: Unlocking Price Transparency on 31 MAR 2023. The package [source repository](https://github.com/databricks/hls-price-transparency) is not yet public, but a build used in the workshop is available in [PyPI](https://pypi.org/project/spark-price-transparency/).
+Spark Price Transparency is python package which is part of the Databricks [Solution Accelerator](https://www.databricks.com/solutions/accelerators/price-transparency-data) for Price Transparency. The package provides guided data architecture for the import, ingest, and transform to analytic form for all Price Transparency Schemas. This repo contains demonstration material covered in the Building a Lakehouse for Healthcare: Unlocking Price Transparency on 21 MAR 2023. The package [source repository](https://github.com/databricks/hls-price-transparency) is not yet public, but a build used in the workshop is available in [PyPI](https://pypi.org/project/spark-price-transparency/).
 
 [![Spark](https://img.shields.io/badge/Spark-3.2.1-orange)](https://docs.databricks.com/release-notes/runtime/releases.html)
 [![DatabricksRuntime](https://img.shields.io/badge/Databricks%20Runtime-10.4%20LTS-orange)](https://docs.databricks.com/release-notes/runtime/releases.html)
