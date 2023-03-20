@@ -30,13 +30,8 @@
 # MAGIC  * **Ingest Tables** - All Tables have schemas that match the [CMS Price Transparency Guide](https://github.com/CMSgov/price-transparency-guide) are preserved, but with array elements broken into separare tables and stored as delta for better performance.
 # MAGIC  * **Run Analytic** - This method runs a batch job with Ingest Tables source to populate Analytic tables.
 # MAGIC  * **Analytic Tables** - These tables are a semi-normalized form of the original schema intended to be shared with business users as base tables for insights.
-
-# COMMAND ----------
-
-# DBTITLE 1,Install graphics for visualizations
-# MAGIC %sh
-# MAGIC apt-get install -y graphviz
-# MAGIC pip install graphviz
+# MAGIC  
+# MAGIC  **NOTE**: There are graphics in these notebooks that require graphviz to run. If you would like to see them, you will want to download and add to your cluster init scripts [install_graphviz.sh](https://github.com/databricks-industry-solutions/hls-price-transparency-workshop/blob/main/init_scripts/install_graphviz.sh). Please see the workshop [readme](https://github.com/databricks-industry-solutions/hls-price-transparency-workshop#cluster-dependencies) for details install instructions.
 
 # COMMAND ----------
 
