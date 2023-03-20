@@ -1,6 +1,10 @@
 <img src="./img/databricks.png" alt="databricks_icon" height="30">
-<img src="./img/icon-orange-healthcare_0.svg" alt="hc_icon" height="70" float="left">
-Building a Lakehouse for Healthcare: <br/>Unlocking Price Transparency
+<table style="border:0px solid white; width:100%;">
+    <tr>
+        <td><img src="./img/icon-orange-healthcare_0.svg" alt="hc_icon" height="70"></td>
+        <td align="center">Building a Lakehouse for Healthcare: <br/>Unlocking Price Transparency</td>
+    </tr>
+</table>
 
 ---
 
