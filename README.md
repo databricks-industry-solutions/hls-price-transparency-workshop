@@ -1,10 +1,4 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-<table style="background-color:#EEEDE9;">
+<table style="background-color:#EEEDE9;" width=100%>
     <tr colspan="2">
         <td><img src="./img/databricks.png" alt="databricks_icon" height="30"></td>
     <tr>
