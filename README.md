@@ -21,9 +21,7 @@ Spark Price Transparency is python package which is part of the Databricks [Solu
 ## Cluster Configuration and Dependencies
    
  * This acclerator was tested using Databricks Runtime 10.4 LTS.
- * Install [payer-mrf-streamsource-0.3.5.jar](https://github.com/databricks-industry-solutions/hls-price-transparency-workshop/releases/tag/v0.3.5-workshop) - Go to your cluster -> Libraries -> Install New -> Maven and set:
-    * **Coordinates**: `databricks-industry-solutions:hls-payer-mrf-sparkstreaming:0.3.5`
-    * **Repository**:  `https://github.com/databricks-industry-solutions/hls-payer-mrf-sparkstreaming/raw/maven`
+ * Install [payer-mrf-streamsource-0.3.5.jar](https://github.com/databricks-industry-solutions/hls-price-transparency-workshop/releases/tag/0.3.5v) - Go to your cluster -> Libraries -> Install New -> Upload and add the jar:
  * Install [spark-price-transparency-0.1.85-py3-none-any.whl]() - Go to your cluster -> Libraries -> Install New -> PyPI and set:
     * **Package**: `spark-price-transparency==0.1.85`
     * **Repository**: `https://github.com/databricks-industry-solutions/hls-price-transparency-workshop/v0.1.85/spark-price-transparency-0.1.85-py3-none-any.whl`
