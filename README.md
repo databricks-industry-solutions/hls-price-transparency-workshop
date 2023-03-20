@@ -1,3 +1,14 @@
+
+<table>
+    <tr>
+        <td><img src="./img/icon-orange-healthcare_0.svg" alt="hc_icon"></td>
+        <td align="center">Building a Lakehouse for Healthcare: <br/>Unlocking Price Transparency</td>
+        <td><img src="./img/health_care_accelerator.jpeg" alt="hls_acc_icon"></td>
+    </tr>
+</table>
+
+---
+
 # Spark Price Transparency Workshop
 
 <img src="./img/icon-orange-healthcare_0.svg" alt="hc_icon">
