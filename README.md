@@ -1,8 +1,8 @@
 <img src="./img/databricks.png" alt="databricks_icon" height="30">
 <table style="border:0px solid white; width:100%;">
     <tr>
-        <td><img src="./img/icon-orange-healthcare_0.svg" alt="hc_icon" height="70"></td>
-        <td align="center">Building a Lakehouse for Healthcare: <br/>Unlocking Price Transparency</td>
+        <td><img src="./img/icon-orange-healthcare_0.svg" alt="hc_icon" ></td>
+        <td align="center"><font size="+2">Building a Lakehouse for Healthcare: Unlocking Price Transparency </font></td>
     </tr>
 </table>
 
