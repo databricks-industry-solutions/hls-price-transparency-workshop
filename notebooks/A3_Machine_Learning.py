@@ -134,8 +134,8 @@ with mlflow.start_run() as run:
 
         print(f"rmse_test: {rmse_test}")
         print(f"rmse_train: {rmse_train}")
-        mlflow.log_metric("rmse_test", test_rmse)
-        mlflow.log_metric("rmse_train", train_rmse)
+        mlflow.log_metric("rmse_test", rmse_test)
+        mlflow.log_metric("rmse_train", rmse_train)
     
         mlflow.spark.log_model(model, "model")
 
