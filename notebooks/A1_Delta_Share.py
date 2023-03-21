@@ -11,6 +11,7 @@
 
 from delta_sharing.protocol import DeltaSharingProfile
 from delta_sharing import SharingClient
+import delta_sharing
 
 pt_config = {'share_credentials_version': 1,
              'endpoint': "https://eastus2-c2.azuredatabricks.net/api/2.0/delta-sharing/metastores/3e06dc8f-51a0-4e0c-a9df-16bfb4c0c00a",
